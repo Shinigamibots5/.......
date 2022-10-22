@@ -1,19 +1,22 @@
-# MERGE-BOT
+<img src="https://te.legra.ph/file/51d142cd1c5817832dd5c.jpg" align="right" width="200" height="200"/>
+
+# पानीपुरी MERGE-BOT
+
 ### PR's Welcomed
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yashoswalyo/MERGE-BOT?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/yashoswalyo/MERGE-BOT?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/yashoswalyo/MERGE-BOT)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/yashoswalyo/MERGE-BOT)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yashoswalyo/MERGE-BOT)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yashoswalyo/MERGE-BOT)
-![GitHub contributors](https://img.shields.io/github/contributors/yashoswalyo/MERGE-BOT?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/yashoswalyo/MERGE-BOT?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yashoswalyo/MERGE-BOT)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shinigamibots5/MERGE-BOT?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Shinigamibots5/MERGE-BOT?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Shinigamibots5/MERGE-BOT)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Shinigamibots5/MERGE-BOT)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Shinigamibots5/MERGE-BOT)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Shinigamibots5/MERGE-BOT)
+![GitHub contributors](https://img.shields.io/github/contributors/Shinigamibots5/MERGE-BOT?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shinigamibots5/MERGE-BOT?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Shinigamibots5/MERGE-BOT)
 
-An Telegram Bot By [Yash Oswal](https://t.me/yashoswalyo) To Merge multiple Videos in Telegram into single video. <br>
-Bugs should be reported at: [Telegram Group](https://t.me/yo_codes_support)
+An Telegram Bot By [✘ DUDU ✘](https://t.me/Bae_wafaaa) To Merge multiple Videos in Telegram into single video. <br>
+Bugs should be reported at: [Telegram Group](https://t.me/AKIMAXMOVIES)
 
 ```diff
 - TODO's:
@@ -39,7 +42,18 @@ Bugs should be reported at: [Telegram Group](https://t.me/yo_codes_support)
 [![Watch the video](https://img.youtube.com/vi/H-xVk_4zccs/hqdefault.jpg)](https://youtu.be/H-xVk_4zccs)
 
 ## Deploy(at your own risk) :
-<p><a href="https://heroku.com/deploy?template=https://github.com/yashoswalyo/MERGE-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<h3 align="center">
+   ─「 Deploying on Heroku 」─
+
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shinigamibots5/MERGE-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+<h3 align="center">
+━━━━━━━━━━━━━━━━━━━━
+   </h3>
+   
+# I Worked Very Hard On It Plz Support Me
 
 ### OR
 Goto `settings > actions > secret > New Repository Secret` <br>
@@ -86,7 +100,7 @@ stats - (admin only) check bots stats
 
 ## Self Host
 ```sh
-$ git clone https://github.com/yashoswalyo/MERGE-BOT.git
+$ git clone https://github.com/Shinigamibots5/MERGE-BOT.git
 $ cd MERGE-BOT
 $ sudo apt-get install python3 python3-pip ffmpeg
 $ pip3 install -U pip
@@ -98,7 +112,7 @@ $ bash start.sh
 ## License
 ```
 Merge Bot, Telegram Video Merge Bot
-Copyright (c) 2021  Yash Oswal <https://github.com/yashoswalyo>
+Copyright (c) 2021  ✘ DUDU ✘ <https://t.me/Bae_wafaaa>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -116,7 +130,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [Me](https://github.com/yashoswalyo) for [Nothing](https://github.com/yashoswalyo/MERGE-BOT) 😬
+- [Me](https://t.me/Bae_wafaaa) for [Nothing](https://github.com/Shinigamibots5/MERGE-BOT) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [Abir Hasan](https://github.com/AbirHasan2005) for his wonderful [code](https://github.com/AbirHasan2005/VideoMerge-Bot) ❤️
-- [Jigarvarma2005](https://github.com/Jigarvarma2005) and [SpechIDE](https://t.me/spechide) for helping me to fix bugs 🤓
+
